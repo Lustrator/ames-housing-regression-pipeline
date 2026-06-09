@@ -22,7 +22,7 @@ Focus areas:
 ## Dataset
 
 - Source: Kaggle Ames Housing Dataset  
-- Kaggle competition: https://www.kaggle.com/code/iriyablood/not-all-nans-are-equal-ames-housing-deep-dive  
+- Kaggle competition: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview  
 - Target variable: `SalePrice`  
 - Problem type: Regression  
 
